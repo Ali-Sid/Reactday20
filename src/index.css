@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(251, 242, 242);
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 24px;
+}
+
+li {
+  display: inline;
+  padding: 38px;
+}
+
+h1 {
+  font-size: 44px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.topContainer {
+  padding-top: 50px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(115, 98, 210);
+  width: 98vw;
+}
